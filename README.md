@@ -8,14 +8,14 @@
 	该项目需要MySQL数据库支持
 ##项目简介
 	该项目主要是新闻发布系统的小demo。
-* 注册界面
+* 注册界面 <br>
 ![](https://github.com/josietan/reactNewsPublish/raw/master/uploads/demo/register.png)  
-* 登陆界面
+* 登陆界面 <br>
 ![](https://github.com/josietan/reactNewsPublish/raw/master/uploads/demo/login.png)  
-* 首页
+* 首页 <br>
 ![](https://github.com/josietan/reactNewsPublish/raw/master/uploads/demo/01.png)  
-* 消息展示界面
+* 消息展示界面 <br>
 ![](https://github.com/josietan/reactNewsPublish/raw/master/uploads/demo/02.png) 
-* 消息发布界面 
+* 消息发布界面 <br>
 ![](https://github.com/josietan/reactNewsPublish/raw/master/uploads/demo/02.png) 
 
