@@ -10,4 +10,4 @@
 	该项目主要是新闻发布系统的小demo。
 *注册界面
 
-![](https://github.com/josietan/uploads/raw/master/demo/register.png)  
+![](https://github.com/josietan/reactNewsPublish/raw/master/uploads/demo/register.png)  
