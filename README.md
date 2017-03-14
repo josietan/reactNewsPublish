@@ -59,8 +59,8 @@ npm run start
 ```
 ###  数据库准备
 * 数据库：主机地址：localhost 用户名：root 密码：123456
-*数据库名称：microblog_sys
-*表：types/tiezi/users
+* 数据库名称：microblog_sys
+* 表：types/tiezi/users
 # 项目主要概述
 ## webpack.config.json:
 ```javascript
