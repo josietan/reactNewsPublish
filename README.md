@@ -6,7 +6,7 @@
 
 	Flux is the application architecture that Facebook uses for building client-side web applications. It complements React's composable view components by utilizing a unidirectional data flow. It's more of a pattern rather than a formal framework, and you can start using Flux immediately without a lot of new code.
 
-	基于FLUX架构，React官方推荐Redux来实现FLUX架构。主要的定义就是store、action、reducer、dispatcher。reducer是一个状态机，就是在切换到某种状态的时候，状态要如何变化。store是一个数据存储单元，非常类似MVC中的model。strore的建立要指定状态机。用户在视图上的操作，会最先让store去dispatch一个新的状态type，然后根据reducer来改变状态对象，路由采用官方路由React-router。由于webpack配合Babel优秀的编译能力，因此本项目采用webpack +babel + ES2016作为编译工具。后台接口用PHP实现，数据库采用MySQL。	
+基于FLUX架构，React官方推荐Redux来实现FLUX架构。主要的定义就是store、action、reducer、dispatcher。reducer是一个状态机，就是在切换到某种状态的时候，状态要如何变化。store是一个数据存储单元，非常类似MVC中的model。strore的建立要指定状态机。用户在视图上的操作，会最先让store去dispatch一个新的状态type，然后根据reducer来改变状态对象，路由采用官方路由React-router。由于webpack配合Babel优秀的编译能力，因此本项目采用webpack +babel + ES2016作为编译工具。后台接口用PHP实现，数据库采用MySQL。	
 # 项目功能
 * 用户注册
 * 用户登录
